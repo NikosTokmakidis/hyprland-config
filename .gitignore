@@ -3,4 +3,6 @@
 
 #File to track
 !.gitignore
+!.config/
 !.config/hypr
+!.config/hypr/**
