@@ -1,0 +1,6 @@
+#Ignore files
+*
+
+#File to track
+!.gitignore
+!.config/hypr
