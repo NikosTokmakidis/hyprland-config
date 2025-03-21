@@ -1,2 +1,2 @@
 sudo pacman -Syu
-sudo pacman -S kitty dolphin waybar
+sudo pacman -S kitty dolphin waybar hyprpaper
