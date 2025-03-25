@@ -8,6 +8,8 @@
 !.config/hypr/**
 !.config/waybar/
 !.config/waybar/**
+!.config/kitty
+!.config/kitty/**
 
 !.scripts/
 !.scripts/**

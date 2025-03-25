@@ -1,0 +1,22 @@
+# Kitty Configuration File
+
+# Font settings
+font_family FiraCode Nerd Font
+font_size 14
+
+# Colors (Dracula theme inspired)
+foreground #f8f8f2
+background #282a36
+selection_foreground #44475a
+selection_background #50fa7b
+cursor #ffb86c
+
+# Window layout and appearance
+window_padding_width 10
+background_opacity 0.9
+
+# Enable ligatures (for fonts that support them)
+enable_ligatures always
+
+# Scrollback buffer size
+scrollback_lines 10000
